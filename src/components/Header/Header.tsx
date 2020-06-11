@@ -17,13 +17,11 @@ class Header extends React.Component<HeaderProps,any>  {
   }
   render(){
     return <Navbar expand="lg">
-    <Navbar.Brand href="/">UsedBook.in</Navbar.Brand>
+    <Navbar.Brand href="/">Mordern Reactive Form</Navbar.Brand>
           <Navbar.Toggle aria-controls="basic-navbar-nav"/>
           <Navbar.Collapse id="basic-navbar-nav">
             <Nav className="ml-auto">
               <Nav.Item><Nav.Link href="/">Home</Nav.Link></Nav.Item> 
-              <Nav.Item><Nav.Link href="/">Login</Nav.Link></Nav.Item> 
-              <Nav.Item><Nav.Link href="/about">SignUp</Nav.Link></Nav.Item>
             </Nav>
           </Navbar.Collapse>
         </Navbar> 
