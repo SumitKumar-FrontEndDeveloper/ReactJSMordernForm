@@ -1,8 +1,9 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This Modern Reactive Form with with all validation [Start To Create New React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+## Instalation
 
-In the project directory, you can run:
+1. Download project or clone
+2. Run : npm install
 
 ### `npm start`
 
